@@ -13,8 +13,8 @@ This persona was devised as a scape goat. We ended up spelling "THE GOAT" backwa
 - [Personality](#personality)
 - [Goals](#goals)
 - [Background](#background)
-- [underworld dealings](#underworld-dealings)
 - [Connections](#connections)
+- [Aliases](#aliases)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -59,8 +59,8 @@ Deep voice, gotta slow down in pace.
 ## Background
 
 - Dragon. Full dragon, expressing as a dragonborn. Tired of the hunt for wealth, get it from the source. The intrigue of
-underworld dealings
--
+  underworld dealings
+- uhh
 
 ## Connections
 
@@ -71,3 +71,6 @@ underworld dealings
 - The Lawyer: Occasionally relies on this persona for additional business acumen and providing a sense of stability.
 - Cerulean: Initial poses as an investor in the pub. If a job goes sideways, this will be used as a cover for Tau's
   actions, allowing him to take on his intended role: A scape goat.
+
+## Aliases
+- "The Boss": This alias is primairly used by "The Drow"

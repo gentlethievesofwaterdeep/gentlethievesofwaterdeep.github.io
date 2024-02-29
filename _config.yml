@@ -2,3 +2,6 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-relative-linksF
   - jekyll-default-layout
+relative_links:
+  enabled:     true
+  collections: false

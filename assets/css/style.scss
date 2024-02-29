@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.nav li {
+    list-style: none;
+    display: block;
+    padding: 0 20px;
+}
+
+.inner {
+    display:flex;
+    max-width: 1280px;
+}
+
+.nav {
+    flex: 1 0 30%;
+}
+
+.main {
+    overflow-y: auto;
+}

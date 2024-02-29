@@ -1,10 +1,4 @@
 theme: jekyll-theme-slate
-plugins:
-  - jekyll-relative-links
-  - jekyll-default-layout
-relative_links:
-  enabled:     true
-  collections: false
 collections:
   profiles:
     output: true

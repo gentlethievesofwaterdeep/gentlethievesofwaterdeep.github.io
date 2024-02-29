@@ -1,5 +1,5 @@
 ---
-Title: "Persona Profile: Tau G'het"
+title: "Persona Profile: Tau G'het"
 layout: default
 ---
 # Persona Profile: Tau G'het

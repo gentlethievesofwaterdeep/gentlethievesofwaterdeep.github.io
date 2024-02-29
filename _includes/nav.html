@@ -1,7 +1,7 @@
 <h1>NAV</h1>
 <ul>
-    <li><a href="{{site.baseurl}">Home</a></li>
-    <li><a href="{{site.baseurl}/profiles">Profiles</a></li>
+    <li><a href="{{site.baseurl}}">Home</a></li>
+    <li><a href="{{site.baseurl}}/profiles">Profiles</a></li>
     {% for profile in site.profiles %}
     <li><a href="{{ profile.url }}">{{ profile.title }}</a></li>
     {% endfor %}

@@ -1,6 +1,20 @@
+
 # Persona Profile: Tau G'het
 
 This persona was devised as a scape goat. We ended up spelling "THE GOAT" backwards, and workign from there.
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Physicals](#physicals)
+- [Personality](#personality)
+- [Goals](#goals)
+- [Background](#background)
+- [underworld dealings](#underworld-dealings)
+- [Connections](#connections)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Physicals
 

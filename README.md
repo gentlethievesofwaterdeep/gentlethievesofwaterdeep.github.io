@@ -1,6 +1,7 @@
+---
+Title: "Cerulean Crew Home"
+---
+
 # gentlethievesofwaterdeep.github.io
-Crew info page for a DnD Campaign
 
-
-Profiles:
-- [Tau G'het](/profiles/taughet.md)
+DnD nonsense. Use the side nav.

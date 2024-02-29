@@ -1,4 +1,6 @@
-
+---
+title: "Persona Profile: Tau G'het"
+---
 # Persona Profile: Tau G'het
 
 This persona was devised as a scape goat. We ended up spelling "THE GOAT" backwards, and workign from there.

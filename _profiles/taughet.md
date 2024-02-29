@@ -41,7 +41,7 @@ This persona was devised as a scape goat. We ended up spelling "THE GOAT" backwa
 
 ## Concept images
 
-{% include carousel.html height="120" unit="px" duration="10" number=1 %}
+{% include carousel.html height="50" unit="%" duration="5" number=1 %}
 
 ## Physicals
 

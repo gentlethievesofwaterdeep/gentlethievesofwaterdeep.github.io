@@ -23,12 +23,14 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-        <section id="nav" class="nav">
-            {% include nav.html %}
-        </section>
-        <section id="main_content" class="inner">
-            {{ content }}
-        </section>
+        <div id="inner" class="inner" style="display:flex;">
+            <section id=" nav" class="nav" style="flex: 1 0 10%;">
+                {% include nav.html %}
+            </section>
+            <section id="main_content" class="inner" style="overflow-y: auto;">
+                {{ content }}
+            </section>
+        </div>
     </div>
 
     <!-- FOOTER  -->

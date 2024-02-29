@@ -15,9 +15,11 @@
 }
 
 .nav {
-    flex: 1 0 30%;
+    flex: 1 1 content;
+    max-width: 300px;
 }
 
 .main {
     overflow-y: auto;
+    flex-grow: 4 4 auto;
 }

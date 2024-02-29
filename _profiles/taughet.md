@@ -79,6 +79,10 @@ Attitude:
 
 Deep voice, gotta slow down in pace.
 
+## Tics
+
+- Enforcing a pronounciation of "Tau G'het" with a "Hard `H`"
+
 ## Goals
 
 ## Background

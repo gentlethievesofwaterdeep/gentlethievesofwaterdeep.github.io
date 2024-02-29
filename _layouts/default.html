@@ -23,11 +23,11 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-        <div id="inner-box" class="inner-box">
-            <section id=" nav" class="nav">
+        <div id="flex_outer" class="flex_outer">
+            <section id=" nav" class="nav flex-inner">
                 {% include nav.html %}
             </section>
-            <section id="main_content" class="inner, main">
+            <section id="main_content" class="main flex-inner">
                 {{ content }}
             </section>
         </div>

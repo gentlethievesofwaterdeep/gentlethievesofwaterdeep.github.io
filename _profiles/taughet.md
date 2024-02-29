@@ -2,7 +2,7 @@
 title: "Persona Profile: Tau G'het"
 layout: default
 
-images: [
+pics: [
   "https://cdn.discordapp.com/attachments/1212784478712500354/1212784572325171210/ba14f177-cc7b-4695-a492-487ee9d56be1.jpg?ex=65f318a6&is=65e0a3a6&hm=946903e3da07740e3a859d79258861f5db1c84416ff887e5e9f688c182741c7b&",
   "https://cdn.discordapp.com/attachments/1212784478712500354/1212784572635553863/93863438-ca92-4501-9c8d-0e11f5fb5621.jpg?ex=65f318a6&is=65e0a3a6&hm=8ca490367f7d0a1d13f7273d48e91a835fcf7cd22c885f52238ea7b664583f68&",
   "https://cdn.discordapp.com/attachments/1212784478712500354/1212784572912111616/3fdc6f69-98b1-47e6-8c16-0b7318109482.jpg?ex=65f318a6&is=65e0a3a6&hm=42d54b6e5b671ffb3ebb20b26683fd0a39b5cf941bf6ebd2019461d60630bcbf&",
@@ -40,7 +40,7 @@ This persona was devised as a scape goat. We ended up spelling "THE GOAT" backwa
 
 ## Concept images
 
-{% include gallery.html height="120" unit="px" duration="10 images=iamges %}
+{% include gallery.html height="120" unit="px" duration="10 images=pics %}
 
 ## Physicals
 

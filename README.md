@@ -1,6 +1,6 @@
----
+<!-- ---
 Title: "Cerulean Crew Home"
----
+--- -->
 
 # gentlethievesofwaterdeep.github.io
 

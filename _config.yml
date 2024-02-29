@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 plugins:
-  - jekyll-relative-linksF
+  - jekyll-relative-links
   - jekyll-default-layout
 relative_links:
   enabled:     true

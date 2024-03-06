@@ -26,3 +26,8 @@ Not much is known about this person, other than that it is the "Crackhead Drow".
 Literally anything.
 
 - Francis
+
+## Tools
+
+- Silverware set
+- Banana

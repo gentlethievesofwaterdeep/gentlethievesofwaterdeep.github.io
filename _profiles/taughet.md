@@ -93,7 +93,7 @@ Deep voice, gotta slow down in pace.
 
 ## Connections
 
-- The Drow: This is the most common pairing. The Drow serves as a general purpose henchman/valet. Source of amusement
+- ["The Drow"](thedrow.html): This is the most common pairing. The Drow serves as a general purpose henchman/valet. Source of amusement
   ("Frederick, stab yourself."), poison checker ("Filip, drink this."), and other actions. Dismissive, but keeps him
    close by. This pairing allows Tau to appear to be the level headed one, and force distraction to position himself to
    a location of safety or influence.

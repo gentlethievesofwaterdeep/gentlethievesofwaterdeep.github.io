@@ -27,6 +27,8 @@ Literally anything.
 
 - Francis
 - Frankie
+- Billy
+- Javier
 
 ## Tools
 

@@ -33,8 +33,7 @@ Literally anything.
 - Fernando
 - Finley
 - Tom
-
-<!-- - Roberto -->
+- Roberto
 <!-- - Fabian -->
 <!-- - Fletcher -->
 

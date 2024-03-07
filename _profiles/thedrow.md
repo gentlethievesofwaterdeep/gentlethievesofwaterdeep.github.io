@@ -31,7 +31,12 @@ Literally anything.
 - Javier
 - Frederick
 - Fernando
+- Finley
+- Tom
 
+<!-- - Roberto -->
+<!-- - Fabian -->
+<!-- - Fletcher -->
 
 ## Tools
 

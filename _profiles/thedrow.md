@@ -34,6 +34,7 @@ Literally anything.
 - Finley
 - Tom
 - Roberto
+- Richard
 <!-- - Fabian -->
 <!-- - Fletcher -->
 

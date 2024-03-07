@@ -2,7 +2,8 @@
     <li><a href="{{site.url}}">Home</a></li>
     <li><b>Profiles</b></li>
     <ul>
-        {% for profile in site.profiles %}
+        {% assign loaded_profiles = site.profiles | sort: "title" %}
+        {% for profile in loaded_profiles | sort %}
         <li><a href="{{ profile.url }}">{{ profile.title }}</a></li>
         {% endfor %}
     </ul>

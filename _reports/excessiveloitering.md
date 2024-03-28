@@ -1,5 +1,5 @@
 ---
-title: "Town Watch Report: Tau G'het - Excessive Loitering"
+title: "Report: Excessive Loitering, side of cult"
 layout: default
 ---
 

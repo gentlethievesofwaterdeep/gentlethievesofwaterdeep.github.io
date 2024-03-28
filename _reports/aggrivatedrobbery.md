@@ -1,5 +1,5 @@
 ---
-title: "Town Watch Report: Triple T the Drow - Aggrivated Robbery"
+title: "Report: Triple T's Robbery"
 layout: default
 ---
 

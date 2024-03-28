@@ -8,6 +8,7 @@
         {% endfor %}
     </ul>
     <li><b>Town Watch Reports</b></li>
+    <ul>
         {% assign loaded_reports = site.reports | sort: "title" %}
         {% for report in loaded_reports | sort %}
         <li><a href="{{ report.url }}">{{ report.title }}</a></li>

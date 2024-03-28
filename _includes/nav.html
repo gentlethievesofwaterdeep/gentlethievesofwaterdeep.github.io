@@ -7,5 +7,8 @@
         <li><a href="{{ profile.url }}">{{ profile.title }}</a></li>
         {% endfor %}
         {% assign loaded_reports = site.reports | sort: "title" %}
+        {% for report in loaded_reports | sort %}
+        <li><a href="{{ report.url }}">{{ report.title }}</a></li>
+        {% endfor %}
     </ul>
 </ul>

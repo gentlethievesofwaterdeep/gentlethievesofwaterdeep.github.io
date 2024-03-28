@@ -1,5 +1,5 @@
 ---
-title: "Report: The Zuchini Zapper Caper"
+title: "The Zuchini Zapper Caper"
 layout: default
 ---
 

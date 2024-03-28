@@ -1,5 +1,5 @@
 ---
-title: "Report: Excessive Loitering, side of cult"
+title: "Loitering with the  cult"
 layout: default
 ---
 

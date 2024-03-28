@@ -1,5 +1,5 @@
 ---
-title: "Report: Triple T's Robbery"
+title: "Triple T's Day Out"
 layout: default
 ---
 

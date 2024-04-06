@@ -1,3 +1,8 @@
+---
+title: "Article II: Membership"
+layout: default
+---
+
 2.1 Eligibility: Membership in the Cerulean Pact is open to individuals who demonstrate exceptional skill and discretion in their chosen field of criminal activity, as well as members of government and commerce that recognize the need for an honorable form of crime. Prospective members must be sponsored by an existing member and approved by a majority vote of the Pact's leadership council.
 
 2.1.1 Talent Discovery: While a sponsor is required for membership to the Pact, it is not required to request membership. This requested membership can be requested freely, with limitations to access and protections under the pact. This provisional membership can be used to attract the eye of an existing member in good standing to serve as a sponsor.

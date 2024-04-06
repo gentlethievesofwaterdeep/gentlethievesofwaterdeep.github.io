@@ -1,3 +1,8 @@
+---
+title: "Article VI: Benefits"
+layout: default
+---
+
 6.1 Asset Pool: The Pact shall maintain a pool of resources, including funds, equipment, safe houses, and contacts, to support its members in their endeavors. These resources shall be offered to members of the Pact as paid services, with all profits returning to the pool for ensuring better services.
 
 6.2 Fair Distribution: Members shall have equal access to the services provided by the pact. Where there are constraints, priority shall be given to projects that align with the strategic objectives of the organization. All services will be available to all members, save situations of punishment as described earlier in this document.

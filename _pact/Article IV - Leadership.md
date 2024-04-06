@@ -1,3 +1,8 @@
+---
+title: "Article IV: Leadership"
+layout: default
+---
+
 4.1 Leadership Council: The Pact shall be governed by a leadership council composed of the most respected and experienced members. The council shall oversee the operations of the organization, make strategic decisions, and resolve disputes among members.
 
 4.2 Composition:

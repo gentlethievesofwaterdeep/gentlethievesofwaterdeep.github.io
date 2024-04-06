@@ -1,3 +1,8 @@
+---
+title: "Article I: Name and Purpose"
+layout: default
+---
+
 1.1 Name: This agreement shall be known as the Cerulean Pact.
 
 1.2 Purpose: The Cerulean Pact is established with the primary goal of fostering a network of skilled individuals engaged in non-violent criminal activities, including but not limited to theft, information brokerage, and smuggling. All signed parties of the Pact shall uphold a code of conduct that strictly prohibits involvement in crimes based purely around violent ends.

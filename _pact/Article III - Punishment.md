@@ -1,3 +1,8 @@
+---
+title: "Article III: Punishment"
+layout: default
+---
+
 3.1 Punishment: In cases of violation of the Pact, as determined by the tribunal, an individual will be liable to being punished by the terms of this pact.
 
 3.2 Access to benefits: During a period of punishment, an individual will be withheld from benefits of the Pact. This can include, but is not limited to: Access to Pact locales, allowance for free trade with Pact vendors and service providers, Access to legal services, information brokerage, fencing, training, and any other services provided. This ban from Pact services is an independent duration, and is decided by Tribunal. An indefinite punishment period may be determined in instances where the Tribunal needs additional time to determine a fitting punishment.

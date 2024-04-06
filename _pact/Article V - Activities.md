@@ -1,3 +1,8 @@
+---
+title: "Article V: Activities"
+layout: default
+---
+
 5.1 Non-Violent Crimes: Members of The Pact shall primarily engage in non-violent criminal activities, including but not limited to theft, burglary, fraud, forgery, information brokerage, and smuggling. Any activities involving violence or endangerment of innocent lives are prohibited.
 
 5.2 Secrecy: Members shall conduct their operations with utmost discretion, avoiding unnecessary attention and minimizing the risk of exposure. The Pact shall maintain secure communication channels and employ encryption methods to safeguard sensitive information.

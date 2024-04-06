@@ -1,3 +1,8 @@
+---
+title: "Article VIIII: Final Provisions"
+layout: default
+---
+
 9.1 Supremacy of the Charter: This charter shall serve as the supreme governing document of the Shadow Consortium, superseding any conflicting agreements or arrangements among its members.
 
 9.2 Enforcement: Any disputes arising from the interpretation or implementation of this charter shall be resolved through mediation by the leadership council. In cases where mediation fails, the matter may be referred to a neutral arbiter agreed upon by all parties.

@@ -6,6 +6,7 @@
         {% for pact in loaded_pact | sort %}
         <li><a href="{{ pact.url }}">{{ pact.title }}</a></li>
         {% endfor %}
+    </ul>
     <li><b>Profiles</b></li>
     <ul>
         {% assign loaded_profiles = site.profiles | sort: "title" %}

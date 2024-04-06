@@ -1,5 +1,11 @@
 <ul>
     <li><a href="{{site.url}}">Home</a></li>
+    <li><b>The Cerulean Pact</b></li>
+    <ul>
+        {% assign loaded_pact = site.pact | sort: "title" %}
+        {% for pact in loaded_pact | sort %}
+        <li><a href="{{ pact.url }}">{{ pact.title }}</a></li>
+        {% endfor %}
     <li><b>Profiles</b></li>
     <ul>
         {% assign loaded_profiles = site.profiles | sort: "title" %}

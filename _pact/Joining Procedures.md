@@ -1,6 +1,11 @@
+---
+title: "Recruitment Procedure"
+layout: default
+---
+
 # For founding parties only
 
-## On members joining
+## On Recruitment
 
 To ensure spies are unable to join the Pact, we will establish the following procedure to vet prospective members.
 - Toibin will be our initial scout as it's most likely they will approach him at the bar.

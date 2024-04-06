@@ -1,3 +1,7 @@
+---
+title: "To Our Partners"
+layout: default
+
 # To Our Partners
 
 Attached is a preliminary copy of our rules for our new 'guild'. We look forward to your feedback, and hope you will sponsor respectable individuals once we formally create the pact.

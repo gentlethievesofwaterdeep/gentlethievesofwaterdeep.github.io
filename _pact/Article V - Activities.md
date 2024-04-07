@@ -16,9 +16,9 @@ Members shall conduct their operations with utmost discretion, avoiding unnecess
 
 While the Pact operates outside the bounds of conventional law, members are expected to adhere to a set of ethical guidelines. These include refraining from excessive bodily harm to individuals and avoiding actions that may bring undue harm to society at large. We may be criminals, but we are professional criminals.
 
-## 5.4 Activities with Targeting other Pact members
+## 5.4 Activities Targeting Members
 
-Membership within the Pact is a matter of public record. As such, it is expected that one should refrain from taking action against or targeting another member of the Pact.
+Membership within the Pact is a matter of record. As such, it is expected that one should refrain from taking action against or targeting another member of the Pact. Disputes should be mediated by a tribunal.
 
 ## 5.4.1 Allies
 

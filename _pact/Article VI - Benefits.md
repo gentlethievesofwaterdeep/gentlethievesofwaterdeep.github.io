@@ -14,7 +14,9 @@ Members shall have equal access to the services provided by the pact. Where ther
 
 ## 6.3 Legal Services
 
-Members in good standing will have an attorney afforded to them, with a complementary 23 ½ minute consultation provided by Pact legal services. We advise members against resisting arrest (aside from escape), as our friends in the court and watch can help drastically reduce punishments. The legal services provided by default will be the available pro-bono volunteers. Additional experienced council, more comfortable accommodations during incarceration, lighter sentencing, and additional benefits may be requested via contractual agreements with Pact legal services. Results are not guaranteed, as member actions can heavily reduce the ability of a Pact Legal representative from ensuring the desired outcome.
+Members in good standing will have representation afforded to them, with a complementary 23 ½ minute consultation provided by legal services. We advise members against resisting arrest (aside from escape), as our friends in the court and watch can help drastically reduce punishments. The legal services provided by default will be the available pro-bono volunteers. Additional experienced council, more comfortable accommodations during incarceration, lighter sentencing, and additional benefits may be requested via contractual agreements with our legal services. Results are not guaranteed, as member actions can heavily reduce the ability of a lgal representative from ensuring the desired outcome.
+
+Before arrest, attempt to get rid of any weapons or stolen goods upon your person. This may allow your crimes to be considered trespassing in the eyes of the court.
 
 Our consul advises members do the following upon arrest:
 - Be polite to the watch. Temperment can play a role in sentencing.
@@ -22,6 +24,6 @@ Our consul advises members do the following upon arrest:
 - Avoid violence with fellow prisoners.
 - Say nothing until your complimentary consultation.
 
-Failure to follow these procedures may result in the termination of complimentary legal services, or membership in the Pact. If a fine is levied, the Pact has the offer a loan at its discretion. A tribunal can approve a loan of up to 50 gold pieces. The council has no limits on loans.
+Failure to follow these procedures may result in the termination of complimentary legal services, or membership in the Pact. If a fine is levied, the Pact can offer a loan at its discretion. A tribunal may approve a loan of up to 50 gold pieces, or provide a recommendation to the council to exceed the limit. The council has no limits on loans.
 
 ## 6.4 Insurance and Retirement

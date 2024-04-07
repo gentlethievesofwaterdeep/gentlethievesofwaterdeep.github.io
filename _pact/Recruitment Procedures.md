@@ -14,4 +14,4 @@ To ensure spies from Xanethar's and the Zhentarim are unable to join the Pact, w
 - Detect Thoughts will be cast, and after a couple of questions, we will inform the prospective member of this. Be prepared to detain them.
 - Matthis, be it in the guise of Tau G'het or The Drow, will attempt to instill a respectful fear of Tau G'het. While we aim to avoid violence, we can use the threat of violence from the council.
 - If we reveal the prospective member is a spy, we will block the exit back to the material plane, and deal with them. Sadly, violence is the language of Xanathar and the Zhentarim, so we must be fluent.
-- Alternatively, we may 'suggest' a potential spy should repent, and immediatly turn themselves into the watch and give them a full list of their crimes.
+- Alternatively, we may 'suggest' a potential spy should repent, and immediatly turn themselves into the watch (preferrably to one of our friends there) and give them a full list of their crimes.

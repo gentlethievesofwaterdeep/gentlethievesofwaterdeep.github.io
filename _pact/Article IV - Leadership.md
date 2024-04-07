@@ -26,24 +26,24 @@ There are occurrences where an emergency council will need to be formed to deter
 
 ## 4.3.1 Accountability
 
-The Tribunal formed must report the Leadership Council for ratification of their decisions. This report will be to the Open Signatory.
+A tribunal must report the Leadership Council for ratification of their decisions. This report will be to the Open Signatory.
 
 ## 4.3.2 Appeals
 
-If the member impacted by the Tribunals decision may request an appeal from the Open Signatory. This appeal will be taken to the Leadership Council, where they will make a final decision. While this process takes place, the member is expected to abide by the tribunals ruling. If the appeal is overruled, the sentence from the Tribunal will be increased by an amount determined by the Leadership Council. If the appeal is approved, restitution will be made to the member. In such cases where an appeal is approved, the original Tribunal may be held responsible for their false judgement depending on circumstances. This judgement will be made by Leadership Council.
+If the member impacted by a tribunals decision may request an appeal from the Open Signatory. This appeal will be taken to the leadership council, where they will make a final decision. While this process takes place, the member is expected to abide by the tribunals ruling. If the appeal is overruled, the sentence from the Tribunal will be increased by an amount determined by the leadership council. If the appeal is approved, restitution will be made to the member. In such cases where an appeal is approved, the original Tribunal may be held responsible for their false judgement depending on circumstances. This judgement will be made by leadership council.
 
-## 4.3.3 The Leadership Councils decisions are final
+## 4.3.3 The Leadership Councils decisions are Final
 
-If the Leadership Council ratifies a decision from a Tribunal, that decision is final and binding. Appeals must be made to the Council prior to ratification. If an appeal is overruled, the overruling is final and the member is expected to accept the ruling. If an appeal is approved, the approval is final, and the Tribunal is expected to accept the ruling. The Open Signatory is the voice of the Council, and his word is the Councils word. Anything he says is final and binding.
+If the leadership council ratifies a decision from a tribunal, that decision is final and binding. Appeals must be made to the Council prior to ratification. If an appeal is overruled, the overruling is final and the member is expected to accept the ruling. If an appeal is approved, the approval is final, and the Tribunal is expected to accept the ruling. The Open Signatory is the voice of the council, and his word is the councils word. Anything he says is final and binding.
 
 ## 4.4 Decision Making
 
-For daily operations, the Tribunals are empowered to act as representative of the Council. This includes, but is not limited to: Admissions of new members, Allocation of Resources, and general government within the pact. As the pact itself is open to all members, the will of the Council has been made known. Major decisions, including but not limited to amendments to the pact, alliances with other parties, and major operations, shall be made by consensus among the leadership council. A simple majority vote shall be taken, with the results being binding. The structure of the council is such that a tie is not possible (1 Open Signatory, Even number of Masked Signatories).
+For daily operations, the tribunals are empowered to act as representatives of the council. This includes, but is not limited to: admissions of new members, allocation of Resources, and general government within the pact. As the pact itself is open to all members, the will of the council has been made known. Major decisions, including but not limited to amendments to the pact, alliances with other parties, and major operations, shall be made by consensus among the leadership council. A simple majority vote shall be taken, with the results being binding. The structure of the council is such that a tie is not possible (1 Open Signatory, Even number of Masked Signatories).
 
 ## 4.5 Hierarchy
 
-All members are valued contributors, and there is no formal rank within the organization. However, seniority, talent, and expertise shall be recognized within the organization. These factors will be considered in all decisions related to choosing a Tribunal and Punishment. Leaders shall be chosen based on merit and experience, with the aim of promoting the best interests of the Pact. For the protection of the pact, the number and identity of the Leadership Council will be known only to them, mirroring the system of Waterdeep. Only the Open Signatory will be known as a member of the Leadership Council, both within and outside of the Pact.
+All members are valued contributors, and there is no formal rank within the organization. However, seniority, talent, and expertise shall be recognized within the organization. These factors will be considered in all decisions related to choosing a Tribunal and Punishment. Leaders shall be chosen based on merit and experience, with the aim of promoting the best interests of the Pact. For the protection of the pact, the number and identity of the Leadership Council will be known only to them, mirroring the system of Waterdeep. Only the Open Signatory will be known as a member of the leadership council, both within and outside of the Pact.
 
 ## 4.6 Alliances
 
-The nature of our organization demands that certain allied parties are present for various leadership activities. This can be Tribunals, or even the Leadership Council. In these events, the identities of the Masked Signatories will be secured. The alliance member will be granted the privilege of their presence and communication with the Council. They will not be allowed a vote in regards to Pact matters.
+The nature of our organization demands that certain allied parties are present for various leadership activities. This can be tribunals, or even the leadership council. In these events, the identities of the Masked Signatories will be secured. The alliance member will be granted the privilege of their presence and communication with the council. They will not be allowed a vote in regards to Pact matters.

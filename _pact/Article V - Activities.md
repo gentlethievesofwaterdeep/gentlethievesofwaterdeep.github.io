@@ -22,7 +22,7 @@ Membership within the Pact is a matter of public record. As such, it is expected
 
 ## 5.4.1 Allies
 
-Allies are generally considered as "Pact Members" for the sake of activities targeting them. As alliances can be in a state of flux, it is considered a best practice to consult a Tribunal prior to taking any action that could be considered as targeting an ally or their interests. Any action taken against an ally without Tribunal permission will be considered a punishable offence. Any action taken against an ally with Tribunal permission that is determined incorrect will be considered a punishable offence for the members of that Tribunal, and not the member who acted in accordance to the rules set here.
+Allies are generally considered as "Pact Members" for the sake of activities targeting them. As alliances can be in a state of flux, it is considered a best practice to consult a tribunal prior to taking any action that could be considered as targeting an ally or their interests. Any action taken against an ally without Tribunal permission will be considered a punishable offence. Any action taken against an ally with Tribunal permission that is determined incorrect will be considered a punishable offence for the members of that Tribunal, and not the member who acted in accordance to the rules set here.
 
 ## 5.4.2 Unaligned Factions
 
@@ -30,24 +30,24 @@ Throughout this item, remember the Zhentarim and Xanathar guilds, who we current
 
 ## 5.5 Innocents and the Working Class
 
-To those who have little, much is owed. The nature of the oppressed working class is such to provide a rich network of information. We are to be the rising tide that lifts all boats. Any activities taken against the lower classes of Waterdeep may be considered for Tribunal review, depending on the scale of the activities taken.
+To those who have little, much is owed. The nature of the oppressed working class is such to provide a rich network of information. We are to be the rising tide that lifts all boats. Any activities taken against the lower classes of Waterdeep may be considered for tribunal review, depending on the scale of the activities taken.
 
 ## 5.6 Nobility and Aristocrats
 
-While the nobility may be a lucrative target, they are also a fickle one that can cause lasting repercussions. Consider your actions against them carefully. Activities taken against this class on their properties without consultation of a Tribunal will be a punishable offence. Opportunistic activities targeting this class may be considered for Tribunal review.
+While the nobility may be a lucrative target, they are also a fickle one that can cause lasting repercussions. Consider your actions against them carefully. Activities taken against this class on their properties without consultation of a tribunal will be a punishable offence. Opportunistic activities targeting this class may be considered for tribunal review.
 
 ## 5.6.1 Contracts for Nobility
 
-The Leadership Council can authorize specific contracts targeting nobles. These cases will be considered individually, and do not fall under the general protections for nobility.
+The leadership council can authorize specific contracts targeting nobles. These cases will be considered individually, and do not fall under the general protections for nobility.
 
 ## 5.6.2 Special Protections
 
-The Leadership Council will maintain a publicly posted list of protected families and parties. Activities targeting these listed entities will be Considered punishable, irregardless of circumstance.
+The leadership council will maintain a publicly posted list of protected families and parties. Activities targeting these listed entities will be considered punishable, irregardless of circumstance.
 
-## 5.7 Magisters and Judges
+## 5.7 The Watch, Magisters and Judges
 
-At all times, active members of the judiciary and their families are to be considered off limits and invalid targets of activities. There will be no special contract from the Leadership Council. No Tribunal may determine that a judicial member is a valid target. Any member of the Pact that knowingly targets a member of the judicial branch will be immediately considered for Tribunal Punishment.
+At all times, active members of the watch, as well as the judiciary and their immediate families are to be considered off limits and invalid targets of activities. There will be no special contract from the leadership council. No tribunal may determine that a judicial member is a valid target. Any member of the Pact that knowingly targets a member of the watch or judicial branch will be immediately considered for tribunal punishment.
 
 ## 5.7.1 Honest Mistakes
 
-If the Tribunal judges that an honest mistake was made by the offending member in the matter of an activity targeting a member of the judicial system, then the punishment may be completely waived in exchange for restitution payment and donations, as recommended by the Punishments section of this Pact.
+If a tribunal judges that an honest mistake was made by the offending member in the matter of an activity targeting a member of the judicial system, then the punishment may be completely waived in exchange for restitution payment and donations, as recommended by Article III.

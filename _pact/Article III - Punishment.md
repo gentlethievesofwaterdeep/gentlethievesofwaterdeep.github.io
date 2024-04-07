@@ -14,7 +14,7 @@ During a period of punishment, an individual will be withheld from benefits of t
 
 ## 3.3 The Pact and the Judicial System
 
-For severe violations of the Pact an individual may be turned over to the Watch to peacefully receive the punishments as dictated by the Waterdeep judiciary system. Upon the judgment of the Tribunal, legal representation may be available, or may be intentionally withheld, in accordance to the severity of the infractions, and level of punishment incurred.
+For severe violations of the Pact an individual may be turned over to the Watch to peacefully receive the punishments as dictated by the Waterdeep judiciary system. Upon the judgment of a tribunal, legal representation may be available, or may be intentionally withheld, in accordance to the severity of the infractions, and level of punishment incurred.
 
 ## 3.4 Waiver of Punishment
 

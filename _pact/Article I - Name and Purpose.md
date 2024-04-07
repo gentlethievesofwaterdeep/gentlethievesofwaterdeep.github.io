@@ -6,7 +6,7 @@ layout: default
 
 ## 1.1 Name
 
-This agreement shall be known as the Cerulean Pact.
+This agreement shall be known as the Cerulean Pact, or the Pact.
 
 ## 1.2 Purpose
 
@@ -18,7 +18,7 @@ Any crime that is defined by violence is not to be allowed. This is distinctly d
 
 ## 1.2.2 The Watch
 
-For any industry of Crime to exist, there must be a lawful order that opposes them. The Watch ensures a "demand" to meet our "supply". As such, they are to be treated as honored rivals. Any act that would render a member of the watch temporarily hindered is considered acceptable. Any act that would incur bodily harm, with a recovery time of greater than 2 days will be considered a minor infraction of the Pact. Any act that would cause permanent injury, loss of employment, or loss of life will be considered immediate grounds for a Tribunal to determine Forceful Termination from the pact. These protections extend to kin of the Watch.
+For any industry of crime to exist, there must be a lawful order that opposes them. The City Watch ensures a "demand" to meet our "supply". As such, they are to be treated as respected rivals. Any act that would render a member of the watch temporarily hindered is considered acceptable. Any act that would incur bodily harm, with a recovery time of greater than 2 days will be considered a minor infraction of the Pact. Any act that would cause loss of employment, permanent injury, or loss of life will be considered immediate grounds for determine forceful termination from the Pact. These protections extend to immediate kin of every member of the watch and the judiciary.
 
 ## 1.3 The Greater Good
 

@@ -46,8 +46,8 @@ The leadership council will maintain a publicly posted list of protected familie
 
 ## 5.7 The Watch, Magisters and Judges
 
-At all times, active members of the watch, as well as the judiciary and their immediate families are to be considered off limits and invalid targets of activities. There will be no special contract from the leadership council. No tribunal may determine that a judicial member is a valid target. Any member of the Pact that knowingly targets a member of the watch or judicial branch will be immediately considered for tribunal punishment.
+At all times, active members of the watch, as well as the judiciary and their immediate families are to be considered off limits and invalid targets of activities. No tribunal may determine that a judicial member is a valid target. Any member of the Pact that knowingly targets a member of the watch or judicial branch will be immediately considered for tribunal punishment.
 
 ## 5.7.1 Honest Mistakes
 
-If a tribunal judges that an honest mistake was made by the offending member in the matter of an activity targeting a member of the judicial system, then the punishment may be completely waived in exchange for restitution payment and donations, as recommended by Article III.
+If a tribunal judges that an honest mistake was made by the offending member in the matter of an activity targeting a member of the watch or judicial system, then the punishment may be completely waived in exchange for restitution payment and donations, as recommended by Article III.

@@ -6,7 +6,7 @@ layout: default
 
 ## 9.1 Supremacy of the Charter
 
-This charter shall serve as the supreme governing document of the Shadow Consortium, superseding any conflicting agreements or arrangements among its members.
+This charter shall serve as the supreme governing document of the Pact, superseding any conflicting agreements or arrangements among its members.
 
 ## 9.2 Enforcement
 

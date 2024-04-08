@@ -14,11 +14,11 @@ The Cerulean Pact is established with the primary goal of fostering a network of
 
 ## 1.2.1 Violence
 
-Any crime that is defined by violence is not to be allowed. This is distinctly different from the right of a member to defend themselves in the face of life threatening danger. In such a situation, a party signed to the pact is free to take such actions as to preserve their lives, with all goals being that of de-escalation and extraction from the situation. Should the actions taken cause the loss of life, a tribunal of representatives of the signed parties shall take place to determine the merit of the actions, and determined the standing of the signed party within the pact.
+Signed parties are prohibited from participation in crime that is defined by violence. This is distinctly different from the right of a member to defend themselves in the face of life threatening danger. In such a situation, a party signed to the Pact is free to take such actions as to preserve their lives, with all goals being that of de-escalation and extraction from the situation. Should the actions taken cause the loss of life, a tribunal of representatives of the signed parties shall take place to determine the merit of the actions, and determined the standing of the signed party within the pact. Tribunals are formally defined in Article IV.
 
-## 1.2.2 The Watch
+## 1.2.2 The Watch and Magisters
 
-For any industry of crime to exist, there must be a lawful order that opposes them. The City Watch ensures a "demand" to meet our "supply". As such, they are to be treated as respected rivals. Any act that would render a member of the watch temporarily hindered is considered acceptable. Any act that would incur bodily harm, with a recovery time of greater than 2 days will be considered a minor infraction of the Pact. Any act that would cause loss of employment, permanent injury, or loss of life will be considered immediate grounds for determine forceful termination from the Pact. These protections extend to immediate kin of every member of the watch and the judiciary.
+For any industry of crime to exist, there must be a lawful order that opposes them. The City Watch ensures a "demand" to meet our "supply". As such, they along with magisters are to be treated as respected rivals. Any act that would render a member of either party temporarily hindered is considered acceptable. Any act that would incur bodily harm, with a recovery time of greater than 2 days will be considered a minor infraction of the Pact. Any act that would cause loss of employment, permanent injury, or loss of life will be considered immediate grounds for forceful termination from the Pact. These protections extend to the immediate kin of every member of the watch and the judiciary.
 
 ## 1.3 The Greater Good
 

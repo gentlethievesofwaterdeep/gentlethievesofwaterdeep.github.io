@@ -10,7 +10,7 @@ In cases of violation of the Pact, as determined by a tribunal, an individual wi
 
 ## 3.2 Access to Benefits
 
-During a period of punishment, an individual will be withheld from benefits of the Pact. This can include, but is not limited to: Access to Pact locales, allowance for free trade with Pact vendors and service providers, access to legal services, information brokerage, fencing, training, and any other services provided. This ban from Pact services is an independent duration, and is decided by a tribunal. An indefinite punishment period may be determined in instances where a tribunal needs additional time to determine a fitting punishment.
+During a period of punishment, an individual will be withheld from benefits of the Pact. This can include, but is not limited to: access to Pact locales, allowance for free trade with Pact vendors and service providers, access to legal services, information brokerage, fencing, training, and any other services provided. This ban from Pact services is an independent duration, and is decided by a tribunal. An indefinite punishment period may be determined in instances where a tribunal needs additional time to determine a fitting punishment.
 
 ## 3.3 The Pact and the Judicial System
 

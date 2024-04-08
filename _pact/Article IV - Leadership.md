@@ -45,3 +45,7 @@ All members are valued contributors, and there is no formal rank within the orga
 ## 4.6 Alliances
 
 The nature of our organization demands that certain allied parties are present for various leadership activities. This can be tribunals, or even the leadership council. In these events, the identities of the Masked Signatories will be secured. The alliance member will be granted the privilege of their presence and communication with the council. They will not be allowed a vote in regards to Pact matters.
+
+## 4.7 The Tavern Keeper
+
+The tavern keeper is to be in charge of daily operations for the headquarters. This includes, but is not limited to, arrainging interviews for perspective members, calling for the formation of tribunals, and serving alcohol. In emergencies, the tavern keeper has the authority to skip the formation of a tribunal and render their own judgement. As with a tribunal, a report will be sent to the council. All Pact signatories must follow the tavern keeper's orders while in our headquarters. 

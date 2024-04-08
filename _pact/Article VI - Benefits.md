@@ -30,11 +30,11 @@ Failure to follow these procedures may result in the termination of complimentar
 
 The Pact will retain a repository of magical items senior members are allowed to rent out. A flat fee will be charged. If the item is not returned, the individual will be responsible for the cost of replacing the item. Alternatively, a similar item can be procured pending tribunal approval.
 
-Additionally, secure communication can be arranged via our members proficent in magic. Sending and illusory scripts are available to our members for 100GP and 25GP. Arcane locks can also be arranged for 50GP per lock. Additional fees may be charged if the spells are required within 24 hours. If any members need a secure meeting and are concerned about evesdropping, our VIP room can be rented for 100GP for one hour. Naturally, messages to other members can be left at our bartender for free, but the Pact accepts no liability.
+Additionally, secure communication can be arranged via our members proficent in magic. Sending and illusory scripts are currently available to our members for 80GP and 20GP. Arcane locks can also be arranged for 50GP per lock. Additional fees may be charged if the spells are required within 24 hours. Affiliated arcane practioners are not required to adhere to these prices, but as privledged communication is to the benefit of all members, we recommend adherence. If any members need a secure meeting and are concerned about evesdropping, our VIP room can be rented for 100GP for one hour. Naturally, messages to other members can be left at our bartender for free, but the Pact accepts no liability.
 
 ## 6.5 Optional Funds for Legal Services, Insurance, and Retirement
 
-To ensure the best representation, our members should contribute at least 10GP a month to the legal services fund. As mentioned in 6.3, only the initial consultation is complimentary.
+To ensure the best representation, our members should contribute at least 10GP a month to the legal services fund. As mentioned above in Article VI Section 3, only the initial consultation is complimentary.
 
 Additionally, our members may elect to contribute to a fund providing insurance in case of severe bodily harm. The fee will be 10GP per month. A tribunal will dictate if a member is elligible for a pay out. If said member is unable to return to their profession, the Pact will aid them in finding a new profession.
 

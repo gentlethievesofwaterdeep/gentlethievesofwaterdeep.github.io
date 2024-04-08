@@ -13,7 +13,7 @@ After our job this week, we should expect to move quickly to recruit new talent.
 Reach out to respectable associates, make it known that henceforth, Pact membership is required for clients. No exceptions will be made. (Our friends up north of course, can ignore this.)
 
 ## Tau G'het and Dastan
-Begin networking amgongst the noble class. When possible, bring along a member of the Pact along to inform them of the finer points of ettiquite.
+Begin networking with the noble class. When possible, bring along a member of the Pact along to inform them of the finer points of ettiquite.
 
 ## Toibin and Veltar
 Scout potential members as they drop by the bar. See recruitment procedures for further information.

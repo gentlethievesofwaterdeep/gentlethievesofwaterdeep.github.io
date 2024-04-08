@@ -24,7 +24,7 @@ Our consul advises members do the following upon arrest:
 - Avoid violence with fellow prisoners.
 - Say nothing until your complimentary consultation.
 
-Failure to follow these procedures may result in the termination of complimentary legal services, or membership in the Pact. If a fine is levied, the Pact can offer a loan at its discretion. A tribunal may approve a loan of up to 50 gold pieces, or provide a recommendation to the council to exceed the limit. The council has no limits on loans.
+Failure to follow these procedures may result in the termination of complimentary legal services, or membership in the Pact. If a fine is levied, the Pact can offer a loan at its discretion. A tribunal may approve a loan of up to 50GP, or provide a recommendation to the council to exceed the limit. The council has no limits on loans.
 
 ## 6.4 Magical Services
 

@@ -14,7 +14,7 @@ While membership of the pact is an open record within the Pact, the leadership c
 
 ## 4.2.1 The Open Signatory
 
-The Open Signatory shall be a known figure within the Pact, and will be the primary external face of the Pact. Their primary role is that of a liaison between the members of the pact, the allies of the pact, and the leadership of the pact.
+The Open Signatory shall be a known figure within the Pact, and will be the primary external face of the Pact. His primary role is that of a liaison between the members of the pact, the allies of the pact, and the leadership of the pact. The Open Signatory is to be considered the father of the Pact, and any insults directed towards Him or mispronunciation of the hard H is disrespect to every member and associate of the Pact.
 
 ## 4.2.2 The Masked Signatories
 

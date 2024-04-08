@@ -22,7 +22,7 @@ While the Pact operates outside the bounds of conventional law, members are expe
 - Intetionally interfering with the business of a Pact member or ally.
 - Disrespectful behavior towards leadership and senior members.
 - Excessive activites aimed at the lower class.
-- Targetting the influential members of the nobility or other protected parties without tribunal approval.
+- Targetting influential members of the nobility or other protected parties without tribunal approval.
 - Bringing harm to a member of the watch, a magistrate, or their immediate kin.
 - Engaging in grossly unprofessional behavior. We are not ruffians who get into bar fights numerous times in a week.
 

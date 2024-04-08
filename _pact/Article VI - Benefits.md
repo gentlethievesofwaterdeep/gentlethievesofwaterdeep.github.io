@@ -26,4 +26,10 @@ Our consul advises members do the following upon arrest:
 
 Failure to follow these procedures may result in the termination of complimentary legal services, or membership in the Pact. If a fine is levied, the Pact can offer a loan at its discretion. A tribunal may approve a loan of up to 50 gold pieces, or provide a recommendation to the council to exceed the limit. The council has no limits on loans.
 
-## 6.4 Insurance and Retirement
+## 6.4 Magical Services
+
+The Pact will retain a repository of magical items senior members are allowed to rent out. A flat fee will be charged. If the item is not returned, the individual will be responsible for the cost of replacing the item. Alternatively, a similar item can be procured pending tribunal approval.
+
+Additionally, secure communication can be arranged via our members proficent in magic. Sending and illusory scripts are available to our members for 50GP and 20GP. Arcane locks can also be arranged for 50GP per lock. If any members need a secure meeting and are concerned about evesdropping, our VIP room can be rented for 100GP for one hour. Naturally, messages to other members can be left at our bartender for free, but the Pact accepts no liability.
+
+## 6.5 Insurance and Retirement

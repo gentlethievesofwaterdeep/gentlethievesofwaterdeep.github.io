@@ -6,7 +6,7 @@ layout: default
 
 ## 3.1 Punishment
 
-In cases of violation of the Pact, as determined by a tribunal, an individual will be liable to being punished by the terms of this pact.
+In cases of violation of the Pact, as determined by a tribunal, an individual will be liable to being punished by the terms of the Pact. See Article IV for further details on tribunals.
 
 ## 3.2 Access to Benefits
 

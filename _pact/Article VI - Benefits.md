@@ -30,6 +30,6 @@ Failure to follow these procedures may result in the termination of complimentar
 
 The Pact will retain a repository of magical items senior members are allowed to rent out. A flat fee will be charged. If the item is not returned, the individual will be responsible for the cost of replacing the item. Alternatively, a similar item can be procured pending tribunal approval.
 
-Additionally, secure communication can be arranged via our members proficent in magic. Sending and illusory scripts are available to our members for 50GP and 20GP. Arcane locks can also be arranged for 50GP per lock. If any members need a secure meeting and are concerned about evesdropping, our VIP room can be rented for 100GP for one hour. Naturally, messages to other members can be left at our bartender for free, but the Pact accepts no liability.
+Additionally, secure communication can be arranged via our members proficent in magic. Sending and illusory scripts are available to our members for 100GP and 25GP. Arcane locks can also be arranged for 50GP per lock. Additional fees may be charged if the spells are required within 24 hours. If any members need a secure meeting and are concerned about evesdropping, our VIP room can be rented for 100GP for one hour. Naturally, messages to other members can be left at our bartender for free, but the Pact accepts no liability.
 
 ## 6.5 Insurance and Retirement

@@ -36,6 +36,6 @@ Additionally, secure communication can be arranged via our members proficent in 
 
 To ensure the best representation, our members should contribute at least 10GP a month to the legal services fund. As mentioned in 6.3, only the initial consultation is complimentary.
 
-Additionally, our members may elect to contribute to a fund providing insurance in case of severe bodily harm. A tribunal will dictate if a member is elligible for a pay out. If said member is unable to return to their profession, the Pact will aid them in finding a new profession.
+Additionally, our members may elect to contribute to a fund providing insurance in case of severe bodily harm. The fee will be 10GP per month. A tribunal will dictate if a member is elligible for a pay out. If said member is unable to return to their profession, the Pact will aid them in finding a new profession.
 
 As many crimes require participants have good health, the council will provide a fund to allow our members a comfortable retirement. The council is expected to organize excursions to increase this fund, as well as use legitimate means. Our members should know information can often be more valuable than gemstones. Anyone who can aid this fund will be well compensated. Ideally, this fund will allow us a great deal of influence and legitimacy.

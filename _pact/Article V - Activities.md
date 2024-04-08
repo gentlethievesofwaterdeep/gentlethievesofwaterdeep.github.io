@@ -12,9 +12,21 @@ Members of The Pact shall primarily engage in non-violent criminal activities, i
 
 Members shall conduct their operations with utmost discretion, avoiding unnecessary attention and minimizing the risk of exposure. The Pact shall maintain secure communication channels and employ encryption methods to safeguard sensitive information.
 
-## 5.3 Ethical Guidelines
+## 5.3 Code of Conduct
 
-While the Pact operates outside the bounds of conventional law, members are expected to adhere to a set of ethical guidelines. These include refraining from excessive bodily harm to individuals and avoiding actions that may bring undue harm to society at large. We may be criminals, but we are professional criminals.
+While the Pact operates outside the bounds of conventional law, members are expected to adhere to a code of conduct. This includes, but is not limited to:
+- Refraining from excessive bodily harm to individuals.
+- Avoiding actions that may bring undue harm to society at large.
+- Respecting the secrecy of fellow signed parties.
+- Associating with known enemies of the Pact.
+- Intetionally interfering with the business of a Pact member or ally.
+- Disrespectful behavior towards leadership and senior members.
+- Excessive activites aimed at the lower class.
+- Targetting the influential members of the nobility or other protected parties without tribunal approval.
+- Bringing harm to a member of the watch, a magistrate, or their immediate kin.
+- Engaging in grossly unprofessional behavior. We are not ruffians who get into bar fights numerous times in a week.
+
+We may be criminals, but we are professional criminals. The rest of Article V describes the code of conduct in further detail.
 
 ## 5.4 Activities Targeting Members
 
@@ -34,7 +46,7 @@ To those who have little, much is owed. The nature of the oppressed working clas
 
 ## 5.6 Nobility and Aristocrats
 
-While the nobility may be a lucrative target, they are also a fickle one that can cause lasting repercussions. Consider your actions against them carefully. Activities taken against this class on their properties without consultation of a tribunal will be a punishable offence. Opportunistic activities targeting this class may be considered for tribunal review.
+While the nobility may be a lucrative target, they are also a fickle one that can cause lasting repercussions. Consider your actions against them carefully. Activities taken against this class on their properties without consultation of a tribunal will be a punishable offence. Such a tribunal should have a senior member familiar with the nobility present. This is not meant to deter signed parties from targeting the nobility. Instead, a tribunal should be viewed as an opportunity to learn more about the target(s). Opportunistic activities targeting influential members of this class may be considered for tribunal review.
 
 ## 5.6.1 Contracts for Nobility
 

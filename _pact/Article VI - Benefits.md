@@ -34,7 +34,7 @@ Additionally, secure communication can be arranged via our members proficent in 
 
 ## 6.5 Optional Funds for Legal Services, Insurance, and Retirement
 
-To ensure the best representation, our members should contribute at least 10GP a month to the legal services fund. As mentioned in 6.3, only the initial consultation is covered.
+To ensure the best representation, our members should contribute at least 10GP a month to the legal services fund. As mentioned in 6.3, only the initial consultation is complimentary.
 
 Additionally, our members may elect to contribute to a fund providing insurance in case of severe bodily harm. A tribunal will dictate if a member is elligible for a pay out. If said member is unable to return to their profession, the Pact will aid them in finding a new profession.
 

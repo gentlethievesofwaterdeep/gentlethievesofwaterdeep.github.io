@@ -33,34 +33,34 @@ Members shall conduct their operations with utmost discretion, avoiding unnecess
 
 Membership within the Pact is a matter of record. As such, it is expected that one should refrain from taking action against or targeting another member of the Pact. Disputes should be mediated by a tribunal.
 
-## 5.4.1 Allies
+## 5.5 Allies
 
-Allies are generally considered as "Pact Members" for the sake of activities targeting them. As alliances can be in a state of flux, it is considered a best practice to consult a tribunal prior to taking any action that could be considered as targeting an ally or their interests. Any action taken against an ally without Tribunal permission will be considered a punishable offence. Any action taken against an ally with Tribunal permission that is determined incorrect will be considered a punishable offence for the members of that Tribunal, and not the member who acted in accordance to the rules set here.
+Allies are generally considered as "Pact Members" for the sake of activities targeting them. As alliances can be in a state of flux, it is considered a best practice to consult a tribunal prior to taking any action that could be considered as targeting an ally or their interests. Any action taken against an ally without tribunal permission will be considered a punishable offence. Any action taken against an ally with tribunal permission that is determined incorrect will be considered a punishable offence for the members of that tribunal, and not the member who acted in accordance to the rules set here.
 
-## 5.4.2 Unaligned Factions
+## 5.6 Unaligned Factions
 
-Throughout this item, remember the Zhentarim and Xanathar guilds, who we currently consider as "enemies". This is made explicit for emphasis: We are not them, and refuse to act as they do. Their blood feud inhibits the interests of all criminals in Waterdeep. Our goal is not to conquer, defeat, or impair them. It is to be better, and create a reliable flow of work. Given the opportunity to take action specifically targeting another faction, whether it is the named factions above or another one, it is strictly advised to avoid such an activity. Turf wars do nothing but rob all of us of the opportunities that this city creates. When planning such an activity, consider the implications to other factions. When in doubt, consult a Tribunal for guidance.
+Throughout this item, remember the Zhentarim and Xanathar guilds, who we currently consider as "enemies". This is made explicit for emphasis: We are not them, and refuse to act as they do. Their blood feud inhibits the interests of all criminals in Waterdeep. Our goal is not to conquer, defeat, or impair them. It is to be better, and create a reliable flow of work. Given the opportunity to take action specifically targeting another faction, whether it is the named factions above or another one, it is strictly advised to avoid such an activity. Turf wars do nothing but rob all of us of the opportunities that this city creates. When planning such an activity, consider the implications to other factions. When in doubt, consult a tribunal for guidance.
 
-## 5.5 Innocents and the Working Class
+## 5.7 Innocents and the Working Class
 
 To those who have little, much is owed. The nature of the oppressed working class is such to provide a rich network of information. We are to be the rising tide that lifts all boats. Any activities taken against the lower classes of Waterdeep may be considered for tribunal review, depending on the scale of the activities taken.
 
-## 5.6 Nobility and Aristocrats
+## 5.8 Nobility and Aristocrats
 
 While the nobility may be a lucrative target, they are also a fickle one that can cause lasting repercussions. Consider your actions against them carefully. Activities taken against this class on their properties without consultation of a tribunal will be a punishable offence. Such a tribunal should have a senior member familiar with the nobility present. This is not meant to deter signed parties from targeting the nobility. Instead, a tribunal should be viewed as an opportunity to learn more about the target(s). Opportunistic activities targeting influential members of this class may be considered for tribunal review.
 
-## 5.6.1 Contracts for Nobility
+## 5.8.1 Contracts for Nobility
 
 The leadership council can authorize specific contracts targeting nobles. These cases will be considered individually, and do not fall under the general protections for nobility.
 
-## 5.6.2 Special Protections
+## 5.8.2 Special Protections
 
 The leadership council will maintain a publicly posted list of protected families and parties. Activities targeting these listed entities will be considered punishable, irregardless of circumstance.
 
-## 5.7 The Watch, Magisters and Judges
+## 5.9 The Watch, Magisters and Judges
 
 At all times, active members of the watch, as well as the judiciary and their immediate families are to be considered off limits and invalid targets of activities. No tribunal may determine that a judicial member is a valid target. Any member of the Pact that knowingly targets a member of the watch or judicial branch will be immediately considered for tribunal punishment.
 
-## 5.7.1 Honest Mistakes
+## 5.9.1 Honest Mistakes
 
 If a tribunal judges that an honest mistake was made by the offending member in the matter of an activity targeting a member of the watch or judicial system, then the punishment may be completely waived in exchange for restitution payment and donations, as recommended by Article III.

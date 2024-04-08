@@ -4,15 +4,7 @@ layout: default
 ---
 # Article V: Activities
 
-## 5.1 Non-Violent Crimes
-
-Members of The Pact shall primarily engage in non-violent criminal activities, including but not limited to theft, burglary, fraud, forgery, information brokerage, and smuggling. Any activities involving excessive violence or endangerment of innocent lives are prohibited.
-
-## 5.2 Secrecy
-
-Members shall conduct their operations with utmost discretion, avoiding unnecessary attention and minimizing the risk of exposure. The Pact shall maintain secure communication channels and employ encryption methods to safeguard sensitive information.
-
-## 5.3 Code of Conduct
+## 5.1 Code of Conduct
 
 While the Pact operates outside the bounds of conventional law, members are expected to adhere to a code of conduct. This includes, but is not limited to:
 - Refraining from excessive bodily harm to individuals.
@@ -22,11 +14,20 @@ While the Pact operates outside the bounds of conventional law, members are expe
 - Intetionally interfering with the business of a Pact member or ally.
 - Disrespectful behavior towards leadership and senior members.
 - Excessive activites aimed at the lower class.
+- Participanting in crimital activity in the vicinity of our headquarters.
 - Targetting influential members of the nobility or other protected parties without tribunal approval.
 - Bringing harm to a member of the watch, a magistrate, or their immediate kin.
 - Engaging in grossly unprofessional behavior. We are not ruffians who get into bar fights numerous times in a week.
 
 We may be criminals, but we are professional criminals. The rest of Article V describes the code of conduct in further detail.
+
+## 5.2 Non-Violent Crimes
+
+Members of The Pact shall primarily engage in non-violent criminal activities, including but not limited to theft, burglary, fraud, forgery, information brokerage, and smuggling. Any activities involving excessive violence or endangerment of innocent lives are prohibited.
+
+## 5.3 Secrecy
+
+Members shall conduct their operations with utmost discretion, avoiding unnecessary attention and minimizing the risk of exposure. The Pact shall maintain secure communication channels and employ encryption methods to safeguard sensitive information.
 
 ## 5.4 Activities Targeting Members
 

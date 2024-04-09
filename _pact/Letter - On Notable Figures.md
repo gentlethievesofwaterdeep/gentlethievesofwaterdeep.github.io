@@ -1,3 +1,8 @@
+---
+title: "Letter - On Notable Figures"
+layout: default
+---
+
 Esteemed comrades,
 
 Let us delve deeper into the diverse cast of characters that surrounds us, for in their individuality lies our collective strength and intrigue.

@@ -1,5 +1,5 @@
 ---
-title: "To Prospective Members"
+title: "Letter - To Prospective Members"
 layout: default
 ---
 Potential Signatory,

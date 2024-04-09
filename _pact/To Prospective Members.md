@@ -6,9 +6,11 @@ Potential Signatory,
 
 I pen this missive to you with a sense of urgency and purpose, for within the words that follow lies an opportunity of unparalleled magnitude. I speak, of course, of the Cerulean Pact, a beacon of honor and cooperation amidst the murky waters of Waterdeep's criminal underworld.
 
-Allow me to elucidate upon the virtues of this pact, and why I implore you, skilled thieves, forgers, lawyers, muscle, and other esteemed criminals, to affix your signature upon its sacred parchment.
+We find ourselves amidst a storm of gang warfare, where violence and discord reign supreme. The streets are no longer safe, and the innocent suffer as power-hungry factions vie for control. Amidst the current chaos lies an opportunity—a chance for a group of reasonable individuals to step forward and bring order to the chaos, to provide a stabilizing force that keeps violence to a minimum. Hence, the Pact. Our organization will move to fill the power vacuum in a way that benefits everyone in this city.
 
-First and foremost, let us speak of the code of honor that each signatory is expected to uphold. This code, born from the depths of my own wisdom, decrees that violence shall be eschewed whenever possible. Instead, we shall rely upon our wits and cunning to achieve our goals, demonstrating respect for our adversaries in the noble institution of the City Watch.
+Allow me to further elucidate upon the virtues of this pact, and why I implore you, skilled thieves, forgers, lawyers, muscle, and other esteemed criminals, to affix your signature upon its sacred parchment.
+
+First and foremost, let us speak of the code of honor that each signatory is expected to uphold. This code, born from the depths of my own wisdom, decrees that violence shall be eschewed whenever possible. Instead, we shall rely upon our wits and cunning to achieve our goals, demonstrating respect for our adversaries in the noble institution of the City Watch. Thus, we can offer an alternative to the brutality that currently plagues our city.
 
 Furthermore, I have under my employ Tallir, the most formidable criminal defense lawyer in all of Waterdeep. From this day forth, he shall exclusively represent Pact signatories, ensuring that their legal rights are upheld and their interests fiercely defended.
 
@@ -26,11 +28,11 @@ With deepest regards and anticipation,
 
 Tau G'het
 
-Open Signatory of the Cerulean Pact
-Lord of Larceny
-Mastermind of Mayhem
-Champion of Chult
-Dau Donatore
-Grand Schemer of the South
+- Open Signatory of the Cerulean Pact
+- Lord of Larceny
+- Mastermind of Mayhem
+- Champion of Chult
+- Dau Donatore
+- Grand Schemer of the South
 
 ( The list of titles continues on to the back of the parchment. )

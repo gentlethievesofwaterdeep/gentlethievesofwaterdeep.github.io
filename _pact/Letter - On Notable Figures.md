@@ -5,8 +5,6 @@ layout: default
 
 Esteemed comrades,
 
-Let us delve deeper into the diverse cast of characters that surrounds us, for in their individuality lies our collective strength and intrigue.
-
 In the grand tapestry of our organization, each member plays a crucial role, contributing their unique talents and expertise to our noble cause. Allow me to shed light on the esteemed individuals who stand beside us in our pursuit of greatness.
 
 First and foremost, we have Dastan Phylund, whose noble lineage and prowess in combat serve as a bridge to the aristocracy of Waterdeep. House Phylund's expertise in taming dangerous monsters shall undoubtedly prove invaluable as we endeavor to tame the criminal underworld.

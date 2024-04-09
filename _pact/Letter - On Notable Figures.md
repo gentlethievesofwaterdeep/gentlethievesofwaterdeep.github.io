@@ -17,7 +17,7 @@ We then have Veltar, a skilled drow wizard whose mastery of the arcane arts is n
 
 Let us address Mathis, the bard whose talents, though undoubtedly impressive to some, leave me decidedly unimpressed. One cannot help but be condescending towards bards in general, though I begrudgingly admit that Mathis is at least marginally more skilled than that ginger upstart Kvothe.
 
-And then there is Toibin, the bartender with the unfortunate choice of adorning his locks in a shade of blue. Oh, how I lament this misguided preference, for green, my dear companions, is unquestionably the most noble of colors. It represents the very essence of life, growth, and prosperity, embodying the natural beauty that surrounds us. Despite this lamentable flaw, Toibin is undeniably an excellent bartender, and I hold out hope that perhaps one day he shall see the error of his ways and dye his hair green, aligning himself with the true virtue of our cause.
+It is with a heavy heart, however, that I introduce Toibin, the bartender who made the unfortunate choice to adorn his locks in a shade of blue. Oh, how I lament this misguided preference, for green, my dear companions, is unquestionably the most noble of colors. It represents the very essence of life, growth, and prosperity, embodying the natural beauty that surrounds us. Despite this lamentable flaw, Toibin is undeniably an excellent bartender, and I hold out hope that perhaps one day he shall see the error of his ways and dye his hair green, aligning himself with the true virtue of our cause.
 
 Together, we shall navigate the treacherous waters of the criminal underworld, guided by the wisdom of Orp, the strength of Dastan, the melodies of Mathis, and the libations of Toibin.
 

@@ -44,7 +44,7 @@ Membership within the pact has no explicit fee for entry, nor a specific due. An
 
 ## 2.4.1 Purpose of Fees and Dues
 
-The Pact will use collected fees to provide the benefits described later in this Pact. Examples include, but are not limited to: augmentation of services available to members, selective investment into member business and endeavors, an insurance and disability fund, and legal protections. 
+The Pact will use collected fees to provide the benefits described later in this Pact. Examples include, but are not limited to: augmentation of services available to members, selective investment into member business and endeavors, an insurance and disability fund, and legal protections.
 
 ## 2.4.2 Accounting
 

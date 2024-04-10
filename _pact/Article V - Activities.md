@@ -7,6 +7,7 @@ layout: default
 ## 5.1 Code of Conduct
 
 While the Pact operates outside the bounds of conventional law, members are expected to adhere to a code of conduct. This includes, but is not limited to:
+
 - Refraining from excessive bodily harm to individuals.
 - Avoiding actions that may bring undue harm to society at large.
 - Respecting the secrecy of fellow signed parties.

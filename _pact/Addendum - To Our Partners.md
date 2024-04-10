@@ -18,7 +18,5 @@ We are in no rush to grow quickly, lest we run afoul of Xanathar's or the Zhenta
 
 ## Long Term Goals
 
-- Ascertain the identity of masked lords. Our intent is not to blackmail these individuals, but to earn their support. 
+- Ascertain the identity of masked lords. Our intent is not to blackmail these individuals, but to earn their support.
 - Invest in legitimate enterprises. This will allow us to have more soft power than other criminal organizations. In the future, acquiring information to fuel these investments will be our primary goal for our members.
-
-

@@ -19,6 +19,7 @@ Members in good standing will have representation afforded to them, with a compl
 Before arrest, attempt to get rid of any weapons or stolen goods upon your person. This may allow your crimes to be considered trespassing in the eyes of the court.
 
 Our consul advises members do the following upon arrest:
+
 - Be polite to the watch. Temperment can play a role in sentencing.
 - Inform the guards you wish the Cereulean be informed of your arrest. Within two working days you will be assigned representation.
 - Avoid violence with fellow prisoners.

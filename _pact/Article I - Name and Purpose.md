@@ -10,7 +10,7 @@ This agreement shall be known as the Cerulean Pact, or the Pact.
 
 ## 1.2 Purpose
 
-The Cerulean Pact is established with the primary goal of fostering a network of skilled individuals engaged in non-violent criminal activities, including but not limited to theft, information brokerage, and smuggling. All signed parties of the Pact shall uphold a code of conduct that strictly prohibits involvement in crimes based purely around violent ends.
+The Cerulean Pact is established with the primary goal of fostering a network of skilled individuals that may engage in non-violent activities that could be considered illegal. Examples include but are not limited to: theft, information brokerage, and smuggling. All signed parties of the Pact shall uphold a code of conduct detailed in Article V that strictly prohibits involvement in activities based purely around violent ends. Signing the Pact is not a crime, as membership in an organization is not illegal under the Code Legal of Waterdeep.
 
 ## 1.2.1 Violence
 

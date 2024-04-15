@@ -24,7 +24,7 @@ We may be criminals, but we are professional criminals. The rest of Article V de
 
 ## 5.2 Non-Violent Crimes
 
-Members of The Pact shall primarily engage in non-violent criminal activities, including but not limited to theft, burglary, fraud, forgery, information brokerage, and smuggling. Any activities involving excessive violence or endangerment of innocent lives are prohibited.
+Members of The Pact shall primarily engage in non-violent activities, including but not limited to theft, burglary, fraud, forgery, information brokerage, and smuggling. Any activities involving excessive violence or endangerment of innocent lives are prohibited.
 
 ## 5.3 Secrecy
 

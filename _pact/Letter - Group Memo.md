@@ -24,3 +24,7 @@ Scout potential members as they drop by the bar. See recruitment procedures for 
 ## Orp
 
 At this time, we have not investigated the sewers. Given other criminals use the sewers to move goods and people discreetly, I propose Orp lead an effort to gain familiarity with the sewer system in our vicinity.
+
+## Other
+
+Check the prisons once we have a few hundred gold to spend. We can pay a few fines to recruit talent who have recently had bad luck. Given the current state of overcrowding, we may be able to arrange a discount. Additionally, Tau G'het should strike a deal with the current warden for preffertial treatment, which is one of our long term goals.
